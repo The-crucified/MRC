@@ -1,5 +1,0 @@
-SSD AttributeError: 'NoneType' object has no shape
-
-SSD IndexError: too many indices for array
-
-RuntimeError: CUDA error: out of memory
